@@ -172,3 +172,11 @@ History records committed changes. It does not normally show:
 - Every discussion or decision behind a change
 
 In short, the history view is the project’s timeline of committed changes, while pull requests and issues usually provide more context about why those changes were made.
+
+## Reflection:
+
+1. The most useful GitHub action to me is the ability to create issues and pull requests. it allows for much faster development cycles as users themselves can somewhat contribute to the codebase this way.
+2. I accepted all of the AI responses because they seemed accurate and included all of the information I needed.
+3. The only part of an AI response I did not keep was a template it provided for a pull request because it had already suggested a checklist for a complete pull request description above.
+4. I still read through and fact checked each of the responses made by the AI just to make sure that they were providing accurate information.
+5. In my next GitHub workflow, I would avoid using AI for anything. 
